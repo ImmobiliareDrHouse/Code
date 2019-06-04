@@ -1,0 +1,77 @@
+body {
+    background-color: #FFF5B6;
+  }
+
+#title {
+    font-family: 'Fredericka the Great', cursive;
+    text-align: center;
+    color: MediumSeaGreen;
+    font-style: bold;
+    font-size: 50px;
+    border-style: dotted;
+    display: inline-block;
+    padding: 1%;
+}
+
+#subtitle {
+    font-family: 'Fredericka the Great', cursive;
+    color:crimson;
+    font-size: 30px;
+}
+
+form {
+    font-family: monospace;
+    font-size: 20px;
+    color: darkorange;
+    text-align: center;
+    display: inline-block;
+}
+
+a#link {
+    font-size: 15px;
+}
+
+.button {
+    height: 152px;
+    width: 900px;
+    border: rgb(255, 0, 0);
+    background: rgb(166, 236, 134);
+    font-style: bold;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: double;
+    padding: 1%;
+}
+
+#choice {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -430;
+}
+
+p#s {
+    color: black;
+}
+
+#block {
+    font-family: 'consolas';
+    color: black;
+    text-align: center;
+    border-width:5px;  
+    border-style:dashed;
+    display: inline-block;
+    padding: 1%;
+    width: 500px;
+}
+
+.submit {
+    background-color: #FF8800; /* colore di sfondo    */
+    border: 2px solid #FCA800; /* bordo dell'elemento */
+    color: #fff;               /* colore del testo    */
+    font-weight: bold;         /* testo in grassetto  */
+    padding: 0;                /* padding             */
+    height: 25px;              /* altezza             */
+    width: 80px;               /* larghezza           */
+  }
